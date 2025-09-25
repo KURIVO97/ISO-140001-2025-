@@ -1,0 +1,34 @@
+﻿{
+    "empresa":  "Hospital Demo S.A.S.",
+    "sede":  "Sede Norte",
+    "periodo":  "semana inicial septiembre 2025",
+    "rh1":  {
+                "aprovechables_kg":  225,
+                "no_aprovechables_kg":  95,
+                "organicos_kg":  55,
+                "biosanitarios_kg":  48.5,
+                "anatomopatologicos_kg":  10.2,
+                "cortopunzantes_kg":  7.0,
+                "farmacos_kg":  5.2,
+                "corrosivos_kg":  2.4,
+                "raee_kg":  1.0
+            },
+    "totales":  {
+                    "total_no_peligrosos":  375,
+                    "total_peligrosos":  74.3
+                },
+    "rhps":  {
+                 "biosanitarios_kg":  62,
+                 "anatomopatologicos_kg":  12.7,
+                 "cortopunzantes_kg":  8.2,
+                 "farmacos_kg":  6.1,
+                 "corrosivos_kg":  1.9,
+                 "raee_kg":  0.7
+             },
+    "acta":  {
+                 "mes":  "2025-09",
+                 "cantidad_enviada_kg":  83.4,
+                 "cantidad_incinerada_kg":  82.5,
+                 "diferencia_kg":  0.9
+             }
+}

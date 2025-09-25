@@ -1,0 +1,38 @@
+﻿{
+  "empresas": [
+    {
+      "empresa_id": "EMP-0001",
+      "nombre": "Hospital Demo S.A.S.",
+      "nit": "900123456-7",
+      "direccion": "Cra 10 # 20-30, Bogotá",
+      "contacto": {
+        "nombre": "Laura Gómez",
+        "cedula": "1020304050",
+        "correo": "lgomez@hospitaldemo.com",
+        "celular": "+57 3101234567",
+        "cargo": "Gerente Ambiental"
+      },
+      "sedes": [
+        {
+          "sede_id": "SED-2025-09-01",
+          "nombre": "Sede Norte",
+          "direccion": "Av. 9 # 120-45, Bogotá",
+          "tipo": "Hospital de alta complejidad",
+          "responsable": {
+            "nombre": "Carlos Pérez",
+            "cedula": "1011122233",
+            "correo": "cperez@hospitaldemo.com",
+            "celular": "+57 3119876543",
+            "cargo": "Coordinador PGIRASA"
+          },
+          "pgirasa": {
+            "version": "2025.1",
+            "vigencia_desde": "2025-01-01",
+            "vigencia_hasta": "2025-12-31",
+            "archivo": "pgirasa_sede_norte_2025.pdf"
+          }
+        }
+      ]
+    }
+  ]
+}
